@@ -1,2 +1,2 @@
-holaMundo = input('Escribe algo: ')
+holaMundo = input('Escribe algo : ')
 print(holaMundo)
